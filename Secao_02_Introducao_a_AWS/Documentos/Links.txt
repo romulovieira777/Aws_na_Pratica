@@ -22,3 +22,8 @@ https://authy.com/
 AWS Command Line Interface
 https://docs.aws.amazon.com/pt_br/cli/latest/userguide/cli-chap-welcome.html
 
+AWS Identity and Access Management
+https://aws.amazon.com/pt/iam/?gclid=CjwKCAiAlcyuBhBnEiwAOGZ2S2YexHdLdd1awhG6IP7t-dlWC3nRUCIuDgzQV3Rpp2G_FzonlYSimxoCHJ8QAvD_BwE&trk=d0aa6e63-b594-43fc-8101-c312f3d653ac&sc_channel=ps&ef_id=CjwKCAiAlcyuBhBnEiwAOGZ2S2YexHdLdd1awhG6IP7t-dlWC3nRUCIuDgzQV3Rpp2G_FzonlYSimxoCHJ8QAvD_BwE:G:s&s_kwcid=AL!4422!3!651510165342!e!!g!!amazon%20iam!19836375520!149589163320
+
+Modelo de responsabilidade compartilhada
+https://aws.amazon.com/pt/compliance/shared-responsibility-model/
