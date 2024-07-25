@@ -1,0 +1,5 @@
+Amazon Elastic Compute Cloud Documentation
+https://docs.aws.amazon.com/ec2/
+
+Tipos de Instance
+https://aws.amazon.com/pt/ec2/instance-types/
