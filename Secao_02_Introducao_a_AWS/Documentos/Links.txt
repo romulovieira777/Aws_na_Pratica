@@ -27,3 +27,9 @@ https://aws.amazon.com/pt/iam/?gclid=CjwKCAiAlcyuBhBnEiwAOGZ2S2YexHdLdd1awhG6IP7
 
 Modelo de responsabilidade compartilhada
 https://aws.amazon.com/pt/compliance/shared-responsibility-model/
+
+Infraestrutura global da AWS
+https://aws.amazon.com/pt/about-aws/global-infrastructure/
+
+Global 3D
+https://apps.kaonadn.net/5181491956940800/index.html
