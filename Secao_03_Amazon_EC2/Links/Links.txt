@@ -6,3 +6,6 @@ https://aws.amazon.com/pt/ec2/instance-types/
 
 Definição de preço do Amazon EC2
 https://aws.amazon.com/pt/ec2/pricing/
+
+Guia de Introdução ao Amazon EC2
+https://docs.aws.amazon.com/pt_br/AWSEC2/latest/UserGuide/EC2_GetStarted.html
