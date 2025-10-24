@@ -9,3 +9,15 @@ https://aws.amazon.com/pt/ec2/pricing/
 
 Guia de Introdução ao Amazon EC2
 https://docs.aws.amazon.com/pt_br/AWSEC2/latest/UserGuide/EC2_GetStarted.html
+
+Ciclo de EC2 vida da instância Amazon Auto Scaling
+https://docs.aws.amazon.com/pt_br/autoscaling/ec2/userguide/ec2-auto-scaling-lifecycle.html#:~:text=As%20inst%C3%A2ncias%20do%20EC2%20em,e%20a%20coloca%20em%20servi%C3%A7o.
+
+Amazon EC2 key pairs and Amazon EC2 instances
+https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/ec2-key-pairs.html
+
+Conectar-se à instância do Linux usando um cliente SSH
+https://docs.aws.amazon.com/pt_br/AWSEC2/latest/UserGuide/connect-linux-inst-ssh.html
+
+Imagens de máquina da Amazon no Amazon EC2
+https://docs.aws.amazon.com/pt_br/AWSEC2/latest/UserGuide/AMIs.html#creating-an-ami
