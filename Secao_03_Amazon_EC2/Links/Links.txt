@@ -1,16 +1,16 @@
 Amazon Elastic Compute Cloud Documentation
 https://docs.aws.amazon.com/ec2/
 
-Tipos de Instance
+Tipos de instância do Amazon EC2
 https://aws.amazon.com/pt/ec2/instance-types/
 
-Definição de preço do Amazon EC2
+Preço do Amazon EC2
 https://aws.amazon.com/pt/ec2/pricing/
 
-Guia de Introdução ao Amazon EC2
+Comece a usar o Amazon EC2
 https://docs.aws.amazon.com/pt_br/AWSEC2/latest/UserGuide/EC2_GetStarted.html
 
-Ciclo de EC2 vida da instância Amazon Auto Scaling
+Ciclo de vida das instâncias do Amazon EC2 Auto Scaling
 https://docs.aws.amazon.com/pt_br/autoscaling/ec2/userguide/ec2-auto-scaling-lifecycle.html#:~:text=As%20inst%C3%A2ncias%20do%20EC2%20em,e%20a%20coloca%20em%20servi%C3%A7o.
 
 Amazon EC2 key pairs and Amazon EC2 instances
@@ -21,3 +21,43 @@ https://docs.aws.amazon.com/pt_br/AWSEC2/latest/UserGuide/connect-linux-inst-ssh
 
 Imagens de máquina da Amazon no Amazon EC2
 https://docs.aws.amazon.com/pt_br/AWSEC2/latest/UserGuide/AMIs.html#creating-an-ami
+
+Compartilhar uma AMI com contas específicas da AWS
+https://docs.aws.amazon.com/pt_br/AWSEC2/latest/UserGuide/sharingamis-explicit.html
+
+Cancelar o registro de uma AMI do Amazon EC2
+https://docs.aws.amazon.com/pt_br/AWSEC2/latest/UserGuide/deregister-ami.html
+
+O que é o Image Builder?
+https://docs.aws.amazon.com/pt_br/imagebuilder/latest/userguide/what-is-image-builder.html
+
+Marcar com tag os recursos do Amazon EC2
+https://docs.aws.amazon.com/pt_br/AWSEC2/latest/UserGuide/Using_Tags.html
+
+Tagging Best Practices
+https://d1.awsstatic.com/whitepapers/aws-tagging-best-practices.pdf
+
+Marcar com tag os recursos do Amazon EC2
+https://docs.aws.amazon.com/pt_br/AWSEC2/latest/UserGuide/Using_Tags.html
+
+Armazenamento em bloco temporário do armazenamento de instância para instâncias do EC2
+https://docs.aws.amazon.com/pt_br/AWSEC2/latest/UserGuide/InstanceStorage.html
+
+Volumes do Amazon EBS
+https://docs.aws.amazon.com/pt_br/ebs/latest/userguide/ebs-volumes.html
+
+Tipos de volume do Amazon EBS
+https://docs.aws.amazon.com/pt_br/ebs/latest/userguide/ebs-volume-types.html
+
+Crie um volume do Amazon EBS.
+https://docs.aws.amazon.com/pt_br/ebs/latest/userguide/ebs-creating-volume.html#:~:text=Para%20criar%20um%20volume%20EBS%20vazio%20usando%20o%20console&text=Escolha%20Create%20volume%20(Criar%20volume,geral%20%C3%A9%20a%20sele%C3%A7%C3%A3o%20padr%C3%A3o.
+
+Anexar um volume do Amazon EBS a uma instância do Amazon EC2
+https://docs.aws.amazon.com/pt_br/ebs/latest/userguide/ebs-attaching-volume.html#:~:text=Para%20associar%20um%20volume%20do,Attach%20Volume%20(Anexar%20volume).
+
+Snapshots do Amazon EBS
+https://docs.aws.amazon.com/pt_br/ebs/latest/userguide/ebs-snapshots.html
+
+Criar snapshots de Amazon EBS
+https://docs.aws.amazon.com/pt_br/ebs/latest/userguide/ebs-creating-snapshot.html
+
