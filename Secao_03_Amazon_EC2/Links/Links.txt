@@ -61,3 +61,41 @@ https://docs.aws.amazon.com/pt_br/ebs/latest/userguide/ebs-snapshots.html
 Criar snapshots de Amazon EBS
 https://docs.aws.amazon.com/pt_br/ebs/latest/userguide/ebs-creating-snapshot.html
 
+Copiar um snapshot do Amazon EBS.
+https://docs.aws.amazon.com/pt_br/ebs/latest/userguide/ebs-copy-snapshot.html#:~:text=Para%20copiar%20um%20snapshot%20usando,Copy%20snapshot%20(Copiar%20snapshot).
+
+Ciclo de vida do snapshot do Amazon EBS
+https://docs.aws.amazon.com/pt_br/ebs/latest/userguide/ebs-snapshot-lifecycle.html
+
+Recuperar snapshots excluídos da Lixeira
+https://docs.aws.amazon.com/pt_br/ebs/latest/userguide/recycle-bin-working-with-snaps.html
+
+Endereços IP elásticos
+https://docs.aws.amazon.com/pt_br/AWSEC2/latest/UserGuide/elastic-ip-addresses-eip.html
+
+Grupos de segurança do Amazon EC2 para as instâncias do EC2
+https://docs.aws.amazon.com/pt_br/AWSEC2/latest/UserGuide/ec2-security-groups.html
+
+Grupos de segurança do Amazon EC2 para as instâncias do EC2
+https://docs.aws.amazon.com/pt_br/AWSEC2/latest/UserGuide/ec2-security-groups.html
+
+O que é Elastic Load Balancing?
+https://docs.aws.amazon.com/pt_br/elasticloadbalancing/latest/userguide/what-is-load-balancing.html
+
+O que é um Application Load Balancer?
+https://docs.aws.amazon.com/pt_br/elasticloadbalancing/latest/application/introduction.html
+
+O que é um Network Load Balancer?
+https://docs.aws.amazon.com/pt_br/elasticloadbalancing/latest/network/introduction.html
+
+O que é um balanceador de carga de gateway?
+https://docs.aws.amazon.com/pt_br/elasticloadbalancing/latest/gateway/introduction.html
+
+O que é um balanceador de carga clássico?
+https://docs.aws.amazon.com/pt_br/elasticloadbalancing/latest/classic/introduction.html
+
+Executar comandos ao iniciar uma instância do EC2 com entrada de dados do usuário
+https://docs.aws.amazon.com/pt_br/AWSEC2/latest/UserGuide/user-data.html
+
+Grupos de destino para seus Application Load Balancers
+https://docs.aws.amazon.com/pt_br/elasticloadbalancing/latest/application/load-balancer-target-groups.html
