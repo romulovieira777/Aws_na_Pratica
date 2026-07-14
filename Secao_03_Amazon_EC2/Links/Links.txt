@@ -99,3 +99,42 @@ https://docs.aws.amazon.com/pt_br/AWSEC2/latest/UserGuide/user-data.html
 
 Grupos de destino para seus Application Load Balancers
 https://docs.aws.amazon.com/pt_br/elasticloadbalancing/latest/application/load-balancer-target-groups.html
+
+Criar um Application Load Balancer.
+https://docs.aws.amazon.com/pt_br/elasticloadbalancing/latest/application/create-application-load-balancer.html
+
+Application Load Balancers
+https://docs.aws.amazon.com/pt_br/elasticloadbalancing/latest/application/application-load-balancers.html#load-balancer-attributes
+
+Application Load Balancers
+https://docs.aws.amazon.com/pt_br/elasticloadbalancing/latest/application/application-load-balancers.html#view-resource-map
+
+New – Advanced Request Routing for AWS Application Load Balancers
+https://aws.amazon.com/pt/blogs/aws/new-advanced-request-routing-for-aws-application-load-balancers/
+
+AWS Elastic Load Balancer Demos
+https://exampleloadbalancer.com/advanced_request_routing_demo.html
+
+Receptores para seus Application Load Balancers
+https://docs.aws.amazon.com/pt_br/elasticloadbalancing/latest/application/load-balancer-listeners.html
+
+O que é um Application Load Balancer?
+https://docs.aws.amazon.com/pt_br/elasticloadbalancing/latest/application/introduction.html
+
+Criar um receptor HTTPS para seu Application Load Balancer
+https://docs.aws.amazon.com/pt_br/elasticloadbalancing/latest/application/create-https-listener.html
+
+O que éGerenciador de certificados da AWS?
+https://docs.aws.amazon.com/pt_br/acm/latest/userguide/acm-overview.html
+
+O que é um Network Load Balancer?
+https://docs.aws.amazon.com/pt_br/elasticloadbalancing/latest/network/introduction.html
+
+O que é o Amazon EC2 Auto Scaling?
+https://docs.aws.amazon.com/pt_br/autoscaling/ec2/userguide/what-is-amazon-ec2-auto-scaling.html
+
+Execução do Auto Scaling e modelos de execução
+https://docs.aws.amazon.com/pt_br/autoscaling/ec2/userguide/launch-templates.html
+
+Grupos do Auto Scaling
+https://docs.aws.amazon.com/pt_br/autoscaling/ec2/userguide/auto-scaling-groups.html
