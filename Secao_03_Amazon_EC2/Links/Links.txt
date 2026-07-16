@@ -138,3 +138,25 @@ https://docs.aws.amazon.com/pt_br/autoscaling/ec2/userguide/launch-templates.htm
 
 Grupos do Auto Scaling
 https://docs.aws.amazon.com/pt_br/autoscaling/ec2/userguide/auto-scaling-groups.html
+
+Step and simple scaling policies for Amazon EC2 Auto Scaling
+https://docs.aws.amazon.com/autoscaling/ec2/userguide/as-scaling-simple-step.html
+
+Use Elastic Load Balancing to distribute incoming application traffic in your Auto Scaling group
+https://docs.aws.amazon.com/autoscaling/ec2/userguide/autoscaling-load-balancer.html
+
+Use uma atualização de instância para atualizar instâncias em um grupo do Auto Scaling
+https://docs.aws.amazon.com/pt_br/autoscaling/ec2/userguide/asg-instance-refresh.html
+
+Use Console-to-Code para gerar código para suas ações do console EC2
+https://docs.aws.amazon.com/pt_br/ec2/latest/devguide/console-to-code.html
+
+O que é AWS CloudShell?
+https://docs.aws.amazon.com/pt_br/cloudshell/latest/userguide/welcome.html
+
+AWS Systems Manager Session Manager
+https://docs.aws.amazon.com/pt_br/systems-manager/latest/userguide/session-manager.html
+
+O que é o AWS Systems Manager?
+https://docs.aws.amazon.com/pt_br/systems-manager/latest/userguide/what-is-systems-manager.html
+
