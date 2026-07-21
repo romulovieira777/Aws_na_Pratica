@@ -162,4 +162,3 @@ https://docs.aws.amazon.com/pt_br/systems-manager/latest/userguide/what-is-syste
 
 Usar metadados da instância para gerenciar a instância do EC2
 https://docs.aws.amazon.com/pt_br/AWSEC2/latest/UserGuide/ec2-instance-metadata.html
-
