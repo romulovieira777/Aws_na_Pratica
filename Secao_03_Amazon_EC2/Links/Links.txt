@@ -160,3 +160,6 @@ https://docs.aws.amazon.com/pt_br/systems-manager/latest/userguide/session-manag
 O que é o AWS Systems Manager?
 https://docs.aws.amazon.com/pt_br/systems-manager/latest/userguide/what-is-systems-manager.html
 
+Usar metadados da instância para gerenciar a instância do EC2
+https://docs.aws.amazon.com/pt_br/AWSEC2/latest/UserGuide/ec2-instance-metadata.html
+
