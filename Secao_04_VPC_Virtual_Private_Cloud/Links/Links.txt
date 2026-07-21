@@ -1,0 +1,17 @@
+Documentação da Amazon Virtual Private Cloud
+https://docs.aws.amazon.com/pt_br/vpc/
+
+VPCs padrão
+https://docs.aws.amazon.com/pt_br/vpc/latest/userguide/default-vpc.html
+
+Crie uma VPC
+https://docs.aws.amazon.com/pt_br/vpc/latest/userguide/create-vpc.html
+
+Sub-redes para sua VPC
+https://docs.aws.amazon.com/pt_br/vpc/latest/userguide/configure-subnets.html
+
+Habilitar o acesso à internet usando gateways da internet
+https://docs.aws.amazon.com/pt_br/vpc/latest/userguide/VPC_Internet_Gateway.html
+
+Gateways NAT
+https://docs.aws.amazon.com/pt_br/vpc/latest/userguide/vpc-nat-gateway.html
