@@ -15,3 +15,13 @@ https://docs.aws.amazon.com/pt_br/vpc/latest/userguide/VPC_Internet_Gateway.html
 
 Gateways NAT
 https://docs.aws.amazon.com/pt_br/vpc/latest/userguide/vpc-nat-gateway.html
+
+Associate Elastic IP addresses with resources in your VPC
+https://docs.aws.amazon.com/vpc/latest/userguide/vpc-eips.html
+
+Consolidate and manage network CIDR blocks with managed prefix lists
+https://docs.aws.amazon.com/vpc/latest/userguide/managed-prefix-lists.html
+
+DHCP option sets in Amazon VPC
+https://docs.aws.amazon.com/vpc/latest/userguide/VPC_DHCP_Options.html
+
