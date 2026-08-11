@@ -1,0 +1,33 @@
+Como o tráfego da Internet é roteado para seu site ou o aplicativo web
+https://docs.aws.amazon.com/pt_br/Route53/latest/DeveloperGuide/welcome-dns-service.html
+
+Administração de Servidores e Serviços de Rede
+https://www.udemy.com/course/adm-srv-redes/?referralCode=F8A04CDA5E954DCD518B&couponCode=KEEPLEARNING
+
+O que é o Amazon Route 53?
+https://docs.aws.amazon.com/pt_br/Route53/latest/DeveloperGuide/Welcome.html
+
+Criar uma zona hospedada privada
+https://docs.aws.amazon.com/pt_br/Route53/latest/DeveloperGuide/hosted-zone-private-creating.html
+
+registros de DNS
+https://www.cloudflare.com/pt-br/learning/dns/dns-records/
+
+Criar registros importando um arquivo de zona
+https://docs.aws.amazon.com/pt_br/Route53/latest/DeveloperGuide/resource-record-sets-creating-import.html
+
+Trabalhar com zonas hospedadas públicas
+https://docs.aws.amazon.com/pt_br/Route53/latest/DeveloperGuide/AboutHZWorkingWith.html
+
+Escolher entre registros de alias e não alias
+https://docs.aws.amazon.com/pt_br/Route53/latest/DeveloperGuide/resource-record-sets-choosing-alias-non-alias.html
+
+Tipos de verificações de integridade do Amazon Route 53
+https://docs.aws.amazon.com/pt_br/Route53/latest/DeveloperGuide/health-checks-types.html
+
+Choosing a routing policy
+https://docs.aws.amazon.com/Route53/latest/DeveloperGuide/routing-policy.html
+
+Internet Engineering Task Force (IETF)
+https://datatracker.ietf.org/doc/html/rfc6891
+
