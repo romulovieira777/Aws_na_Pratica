@@ -6,5 +6,6 @@
 - [Seção 03 - Amazon EC2](https://github.com/romulovieira777/Aws_na_Pratica/tree/main/Secao_03_Amazon_EC2)
 - [Seção 04 - VPC - Virtual Private Cloud](https://github.com/romulovieira777/Aws_na_Pratica/tree/main/Secao_04_VPC_Virtual_Private_Cloud)
 - [Seção 05 - Route 53](https://github.com/romulovieira777/Aws_na_Pratica/tree/main/Secao_05_Route_53)
+- [Seção 06 - Amazon S3](https://github.com/romulovieira777/Aws_na_Pratica/tree/main/Secao_06_Amazon_S3)
 
 Link para o curso: [Udemy](https://www.udemy.com/course/aws-na-pratica/)
