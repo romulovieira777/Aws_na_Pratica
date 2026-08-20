@@ -15,3 +15,6 @@ https://docs.aws.amazon.com/pt_br/AmazonS3/latest/userguide/storage-class-intro.
 
 Proteger dados com criptografia
 https://docs.aws.amazon.com/pt_br/AmazonS3/latest/userguide/UsingEncryption.html
+
+Trabalhar com buckets de diretório
+https://docs.aws.amazon.com/pt_br/AmazonS3/latest/userguide/directory-buckets-overview.html
