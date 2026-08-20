@@ -6,3 +6,12 @@ https://docs.aws.amazon.com/pt_br/AmazonS3/latest/userguide/s3-tables-buckets.ht
 
 Trabalhar com o S3 Vectors e buckets de vetores
 https://docs.aws.amazon.com/pt_br/AmazonS3/latest/userguide/s3-vectors.html
+
+Classes de armazenamento do Amazon S3
+https://aws.amazon.com/pt/s3/storage-classes/
+
+Compreender e gerenciar classes de armazenamento do Amazon S3
+https://docs.aws.amazon.com/pt_br/AmazonS3/latest/userguide/storage-class-intro.html
+
+Proteger dados com criptografia
+https://docs.aws.amazon.com/pt_br/AmazonS3/latest/userguide/UsingEncryption.html
