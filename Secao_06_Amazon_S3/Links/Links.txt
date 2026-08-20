@@ -1,0 +1,8 @@
+O que é o Amazon S3?
+https://docs.aws.amazon.com/pt_br/AmazonS3/latest/userguide/Welcome.html
+
+Buckets de tabela
+https://docs.aws.amazon.com/pt_br/AmazonS3/latest/userguide/s3-tables-buckets.html
+
+Trabalhar com o S3 Vectors e buckets de vetores
+https://docs.aws.amazon.com/pt_br/AmazonS3/latest/userguide/s3-vectors.html
