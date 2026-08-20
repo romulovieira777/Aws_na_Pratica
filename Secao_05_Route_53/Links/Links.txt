@@ -31,3 +31,29 @@ https://docs.aws.amazon.com/Route53/latest/DeveloperGuide/routing-policy.html
 Internet Engineering Task Force (IETF)
 https://datatracker.ietf.org/doc/html/rfc6891
 
+Roteando o tráfego da Internet para o seu AWS recursos
+https://docs.aws.amazon.com/pt_br/Route53/latest/DeveloperGuide/routing-to-aws-resources.html
+
+Escolher uma política de roteamento
+https://docs.aws.amazon.com/pt_br/Route53/latest/DeveloperGuide/routing-policy.html#routing-policy-weighted
+
+Escolher uma política de roteamento
+https://docs.aws.amazon.com/pt_br/Route53/latest/DeveloperGuide/routing-policy.html#routing-policy-geo
+
+Escolher uma política de roteamento
+https://docs.aws.amazon.com/pt_br/Route53/latest/DeveloperGuide/routing-policy.html#routing-policy-latency
+
+Escolher uma política de roteamento
+https://docs.aws.amazon.com/pt_br/Route53/latest/DeveloperGuide/routing-policy.html#routing-policy-multivalue
+
+IP-based roteamento
+https://docs.aws.amazon.com/pt_br/Route53/latest/DeveloperGuide/routing-policy-ipbased.html
+
+Roteamento por geoproximidade
+https://docs.aws.amazon.com/pt_br/Route53/latest/DeveloperGuide/routing-policy-geoproximity.html
+
+Uso do Fluxo de tráfego para rotear tráfego de DNS
+https://docs.aws.amazon.com/pt_br/Route53/latest/DeveloperGuide/traffic-flow.html
+
+Registrar um novo domínio
+https://docs.aws.amazon.com/pt_br/Route53/latest/DeveloperGuide/domain-register.html
