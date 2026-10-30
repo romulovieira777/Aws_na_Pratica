@@ -18,3 +18,72 @@ https://docs.aws.amazon.com/pt_br/AmazonS3/latest/userguide/UsingEncryption.html
 
 Trabalhar com buckets de diretório
 https://docs.aws.amazon.com/pt_br/AmazonS3/latest/userguide/directory-buckets-overview.html
+
+Reter várias versões de objetos com o Versionamento do S3
+https://docs.aws.amazon.com/pt_br/AmazonS3/latest/userguide/Versioning.html
+
+Habilitar o versionamento em buckets
+https://docs.aws.amazon.com/pt_br/AmazonS3/latest/userguide/manage-versioning-examples.html
+
+Gerenciar o ciclo de vida dos objetos
+https://docs.aws.amazon.com/pt_br/AmazonS3/latest/userguide/object-lifecycle-mgmt.html
+
+Setting an S3 Lifecycle configuration on a bucket
+https://docs.aws.amazon.com/AmazonS3/latest/userguide/how-to-set-lifecycle-configuration-intro.html
+
+Replicar objetos dentro de uma região e entre regiões
+https://docs.aws.amazon.com/pt_br/AmazonS3/latest/userguide/replication.html
+
+Controle de acesso no Amazon S3
+https://docs.aws.amazon.com/pt_br/AmazonS3/latest/userguide/access-management.html
+
+Visão geral da lista de controle de acesso (ACL)
+https://docs.aws.amazon.com/pt_br/AmazonS3/latest/userguide/acl-overview.html
+
+Visão geral da lista de controle de acesso (ACL)
+https://docs.aws.amazon.com/pt_br/AmazonS3/latest/userguide/acl-overview.html
+
+Exemplos de políticas de bucket do Amazon S3
+https://docs.aws.amazon.com/pt_br/AmazonS3/latest/userguide/example-bucket-policies.html
+
+Introducing JSON
+https://www.json.org/json-en.html
+
+MongoDB
+mongodb.com/pt-br/resources/languages/what-is-json
+
+AWS Policy Generator
+https://awspolicygen.s3.amazonaws.com/policygen.html
+
+Uso do gerador de políticas
+https://docs.aws.amazon.com/pt_br/ses/latest/dg/using-policy-generator.html
+
+Blocking public access to your Amazon S3 storage
+https://docs.aws.amazon.com/AmazonS3/latest/userguide/access-control-block-public-access.html
+
+Hosting a static website using Amazon S3
+https://docs.aws.amazon.com/AmazonS3/latest/userguide/WebsiteHosting.html
+
+Baixar e fazer upload de objetos com URLs pré-assinados
+https://docs.aws.amazon.com/pt_br/AmazonS3/latest/userguide/using-presigned-url.html
+
+Registrar em log as solicitações com registro em log de acesso ao servidor
+https://docs.aws.amazon.com/pt_br/AmazonS3/latest/userguide/ServerLogs.html
+
+Amazon Athena
+https://aws.amazon.com/pt/athena/
+
+Habilitar o log de acesso ao servidor do Amazon S3
+https://docs.aws.amazon.com/pt_br/AmazonS3/latest/userguide/enable-server-access-logging.html
+
+Configurar transferências de arquivos rápidas e seguras usando o Amazon S3 Transfer Acceleration
+https://docs.aws.amazon.com/pt_br/AmazonS3/latest/userguide/transfer-acceleration.html
+
+Usar a ferramenta de comparação de velocidade do Amazon S3 Transfer Acceleration
+https://docs.aws.amazon.com/pt_br/AmazonS3/latest/userguide/transfer-acceleration-speed-comparison.html
+
+Working with Amazon S3 Files
+https://docs.aws.amazon.com/AmazonS3/latest/userguide/s3-files.html
+
+Working with Amazon S3 Files
+https://docs.aws.amazon.com/AmazonS3/latest/userguide/s3-files.html
