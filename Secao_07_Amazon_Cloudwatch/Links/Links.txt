@@ -1,0 +1,10 @@
+O que é o Amazon CloudWatch?
+https://docs.aws.amazon.com/pt_br/AmazonCloudWatch/latest/monitoring/WhatIsCloudWatch.html
+
+Métricas no Amazon CloudWatch
+https://docs.aws.amazon.com/pt_br/AmazonCloudWatch/latest/monitoring/working_with_metrics.html
+
+Monitoramento básico e monitoramento detalhado no CloudWatch
+https://docs.aws.amazon.com/pt_br/AmazonCloudWatch/latest/monitoring/cloudwatch-metrics-basic-detailed.html
+
+
